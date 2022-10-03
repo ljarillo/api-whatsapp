@@ -1,6 +1,6 @@
 # api-whatsapp
 
-# passo a passo
+## passo a passo
 - npm i 
 - node app.js
 - escanei o qr com o celular (whatsapp)
